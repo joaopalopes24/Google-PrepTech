@@ -62,7 +62,7 @@ class Node
 {
     public function __construct(
         public mixed $data,
-        public mixed $next = null,
+        public mixed $next = NULL,
     ){}
 }
 ```
@@ -73,7 +73,7 @@ A lista encadeada é reprensetada por uma referência para o primeiro nó.
 class LinkedList
 {
     public function __construct(
-        public mixed $head = null,
+        public mixed $head = NULL,
     ){}
 }
 ```
