@@ -1,2 +1,2 @@
-# Google-PrepTech
-All projects developed during the Google PrepTech will be saved here.
+# PrepTech
+All projects developed during the PrepTech will be saved here.
